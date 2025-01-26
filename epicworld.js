@@ -964,8 +964,8 @@ document.addEventListener("DOMContentLoaded", function () {
       ],
     },
     options: {
-      responsive: true,
       maintainAspectRatio: false,
+      responsive: true,
       plugins: {
         tooltip: {
           callbacks: {
