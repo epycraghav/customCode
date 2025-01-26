@@ -1,4 +1,4 @@
- <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+
 document.addEventListener("DOMContentLoaded", function () {
   const ctx = document.getElementById("ehi-chart").getContext("2d");
 
